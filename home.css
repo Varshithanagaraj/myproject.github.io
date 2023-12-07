@@ -1,0 +1,54 @@
+.image{
+    position: relative;
+}
+
+.image img{
+    width: 1515px;
+    height: 705px;
+}
+.links {
+    position:absolute;
+    top: 5%;
+    left: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    word-spacing: 75px;
+}
+.title h2{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title h4{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 35px;
+}
+.title h5{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-size: 25px;
+}
+.title em{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    font-size: 20px;
+}
+.title h6{
+    position: absolute;
+    top: 75%;
+    left: 53%;
+    font-size: 15px;
+}
+.map img{
+    position: absolute;
+    top: 5%;
+    width: 10%;
+    height: 15%;
+    right: 3%;
+}
